@@ -1,3 +1,1 @@
-Esta es la tarea #2 de Randy Emilio Ramirez. Esta es la captura de pantalla:
-
-![Mi captura de pantalla](webcalc.JPG)
+Esta es la tarea de Randy Emilio Ramirez 2019-8888. 
