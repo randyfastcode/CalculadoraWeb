@@ -1,1 +1,4 @@
-Esta es la tarea de Randy Emilio Ramirez 2019-8888. 
+Cambios en la interfaz de la calculadora:
+
+![Mi captura de pantalla](webcalc.JPG)
+![Mi captura de pantalla2](cambiointerfaz.png)
